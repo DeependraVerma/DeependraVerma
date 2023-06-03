@@ -1,3 +1,4 @@
+Welcome to My GitHub Profile! 👋
 - 👋 Hi, I'm @DeependraVerma
 - 👀 I’m interested in leveraging data to drive innovation and create positive impact.
 - 🌱 I’m currently learning advanced techniques in Data Science, Machine Learning, and Artificial Intelligence.
@@ -6,8 +7,11 @@
 - 📧 Email: [deependra.verma00@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/deependra-verma-284668146/]
 - 🌐 Portfolio: [https://deependradatascience-productportfolio.netlify.app/]
-Welcome to My GitHub Profile! 👋
-About Me
+- 📚 Medium: [https://medium.com/@deependra.verma00]
+- 📊 Kaggle: [https://www.kaggle.com/deependraverma13]
+
+
+**About Me**
 I am a passionate and mathematically-inclined professional with a postgraduate degree in Mechanical Engineering from NIT Patna. With a remarkable All India Rank of 950 in the GATE 2017 examination for Mechanical Engineering, I have consistently demonstrated a commitment to academic excellence.
 
 My career began as a Subject Matter Expert and Physics teacher, guiding students preparing for the highly competitive JEE Main and NEET exams. However, my professional journey gradually shifted towards Product and Operation Management, a field that captured my interest and potential. This transition marked my initial exposure to Google sheet automation and SQL, igniting my enthusiasm for leveraging technology to streamline processes and enhance operational efficiency.
@@ -18,7 +22,7 @@ Additionally, my studies in Mechanical Engineering exposed me to the captivating
 
 In today's world, my exploration led me to the captivating realms of Data Science and Machine Learning. I discovered that these fields aligned perfectly with my career aspirations, allowing me to play with data and derive valuable insights for increased productivity. I have dedicated myself to enhancing my skills in Python, Data Science, Machine Learning, and have gradually delved into Artificial Intelligence.
 
-Skills
+**Skills**
 My diverse skill set includes proficiencies in:
 
 Python for data science
