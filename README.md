@@ -4,7 +4,7 @@ Welcome to My GitHub Profile! 👋
 - 🌱 I’m currently working in product management and continuously learning advanced techniques in Data Science, Machine Learning, and Artificial Intelligence to enhance my skills.
 - 💞️ I’m looking to collaborate on exciting projects related to data analysis, predictive modeling, and optimization in product management.
 - 📫 How to reach me:
-- 📧 Email: [mailto:deependra.verma00@gmail.com]
+- 📧 Email: [deependra.verma00@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/deependra-verma-284668146/]
 - 🌐 Portfolio: [https://deependradatascience-productportfolio.netlify.app/]
 - 📚 Medium: [https://medium.com/@deependra.verma00]
