@@ -1,7 +1,7 @@
 Welcome to My GitHub Profile! 👋
 - 👋 Hi, I'm @DeependraVerma
 - 👀 I’m interested in leveraging data to drive innovation and create positive impact.
-- 🌱 I’m currently working in product management and continuously learning advanced techniques in Data Science, Machine Learning, and Artificial Intelligence to enhance my skills.
+- 🌱 I’m currently working in product management and continuously learning advanced techniques in Data Science, Machine Learning, Deep Learning, LLMs and Artificial Intelligence to enhance my skills.
 - 💞️ I’m looking to collaborate on exciting projects related to data analysis, predictive modeling, and optimization in product management.
 - 📫 How to reach me:
 - 📧 Email: [deependra.verma00@gmail.com]
