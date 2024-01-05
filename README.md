@@ -29,7 +29,13 @@ I've honed my expertise through a significant internship with MedTourEasy, worki
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-3776AB?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-3776AB?style=for-the-badge)
 ![Product Management](https://img.shields.io/badge/-Product%20Management-3776AB?style=for-the-badge)
-<!-- Add more skills with badges as per your profile -->
+![LLMs](https://img.shields.io/badge/-LLMs-3776AB?style=for-the-badge)
+![NLP](https://img.shields.io/badge/-NLP-3776AB?style=for-the-badge)
+![Langchain](https://img.shields.io/badge/-Langchain-3776AB?style=for-the-badge)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+
 
 ---
 
