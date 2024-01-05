@@ -4,9 +4,9 @@
 
 ### 👋 Hi there, I'm Deependra Verma
 
-I am a passionate data enthusiast and product management professional, with a rich skill set in Python, SQL, Data Science, Machine Learning, Deep Learning, and LLMs, I bring three years of hands-on experience in data science. As a Kaggle medalist and a proud recipient of a Professional Certification in Data Science from Purdue University, my journey has been marked by continuous learning and application.
+**I am a passionate data enthusiast and product management professional, with a rich skill set in Python, SQL, Data Science, Machine Learning, Deep Learning, and LLMs, I bring three years of hands-on experience in data science. As a Kaggle medalist and a proud recipient of a Professional Certification in Data Science from Purdue University, my journey has been marked by continuous learning and application.**
 
-I've honed my expertise through a significant internship with MedTourEasy, working on fitness data projects. My proficiency lies in modular coding for end-to-end data science projects, including LLMs, Deep Learning, Machine Learning, and Data Analytics. My goal is to leverage these skills to drive impactful innovations and deliver comprehensive data-driven solutions.
+**I've honed my expertise through a significant internship with MedTourEasy, working on fitness data projects. My proficiency lies in modular coding for end-to-end data science projects, including LLMs, Deep Learning, Machine Learning, and Data Analytics. My goal is to leverage these skills to drive impactful innovations and deliver comprehensive data-driven solutions.**
 ---
 
 ## About Me 🌟
