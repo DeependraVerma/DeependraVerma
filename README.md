@@ -12,11 +12,14 @@ I've honed my expertise through a significant internship with MedTourEasy, worki
 
 ## About Me 🌟
 
-- 🎓 **Educational Background**: Postgraduate in Mechanical Engineering from NIT Patna, with a top-tier All India Rank in GATE 2017.
-- 🧑‍🏫 **Professional Journey**: From a Subject Matter Expert and Physics Teacher to a dynamic role in Product and Operation Management.
-- 💻 **Tech Enthusiast**: Skilled in leveraging technology like Google Sheets automation and SQL for operational efficiency.
-- 📈 **Data-Driven**: Proficient in Python, Data Science, Machine Learning, and diving into the depths of Artificial Intelligence.
-- 🌐 **Global Perspective**: Worked in the Ed-Tech sector, utilizing AI to revolutionize learning and drive business growth.
+- 🎓 **Educational Background**: Professional Certification in Data Science from PURDUE University, Internship in Data Science from MedTourEasy, achieved a top-tier All India Rank in the GATE 2017, postgraduate in Mechanical Engineering from NIT Patna.
+- 🧑‍🏫 **Professional Journey**: Transitioned from being a Subject Matter Expert and Physics Teacher to excelling in Data Scientist roles.
+- 💻 **Tech Enthusiast**: Adept at utilizing technologies like Python, Machine Learning, Deep Learning, Data Science, and SQL to enhance Data Science efficiency.
+- 📈 **Data-Driven Expertise**: With three years of experience in data science, I am proficient in Python, SQL, Data Science, Machine Learning, and Deep Learning. My journey in data science is highlighted by Kaggle achievements and a Professional Certification from Purdue University.
+- 🌐 **Global Perspective in Ed-Tech**: Gained substantial experience in the Ed-Tech sector, focusing on AI applications to revolutionize learning experiences and contribute to business growth. This includes a significant data science project during my internship with MedTourEasy, centered around fitness data.
+
+---
+
 
 ## Skills 💼
 
