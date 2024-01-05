@@ -41,15 +41,28 @@ I've honed my expertise through a significant internship with MedTourEasy, worki
 
 ## Projects 📘
 
-- **Project 1**: [Link to Project](#) - Brief description of the project.
-- **Project 2**: [Link to Project](#) - Brief description of the project.
-<!-- Add your best projects with a small description -->
+1. **Global Exam Bot**: An interactive bot designed for exam preparation. [View Project](https://github.com/DeependraVerma/global-exam-bot)
+2. **Medical Chatbot (LLaMA-2)**: A comprehensive chatbot for end-to-end medical consultations. [View Project](https://github.com/DeependraVerma/end-to-end-medical-chatbot-llama-2)
+3. **Retail Store Q&A Chatbot**: A specialized chatbot focused on retail store customer queries. [View Project](https://github.com/DeependraVerma/Chatbot-Q-and-A---Retail-Store)
+4. **Chicken Disease Classification**: Machine Learning model for classifying chicken diseases. [View Project](https://github.com/DeependraVerma/chicken-disease-classification)
+5. **Blog Generator**: An AI-powered tool for automatic blog content generation. [View Project](https://github.com/DeependraVerma/Blog-Generator)
+6. **Text Summariser**: A utility for summarizing large texts efficiently. [View Project](https://github.com/DeependraVerma/Text-Summariser)
+7. **Diabetes Dataset AI Capstone Project**: Analysis and prediction model for diabetes data. [View Project](https://github.com/DeependraVerma/diabetes-dataset-ai-capstone_project-1)
+8. **Book Recommender System**: Personalized book recommendation engine. [View Project](https://github.com/DeependraVerma/book-recommender-system-1)
+9. **Healthcare CVD Project**: A project focused on cardiovascular diseases in healthcare. [View Project](https://github.com/DeependraVerma/Healthcare_CVD)
+10. **IPL 2008-2022 Prediction**: Predictive analysis and insights into IPL matches. [View Project](https://github.com/DeependraVerma/ipl-2008-2022-prediction)
+
 
 ## Achievements 🏆
 
-- **GATE 2017**: All India Rank 950 in Mechanical Engineering.
-- **Teaching Excellence**: Recognized for impact in guiding JEE Main and NEET aspirants.
-<!-- Add any other achievements -->
+- **GATE 2017**: Achieved an All India Rank of 950 in Mechanical Engineering.
+- **PURDUE University Certification**: Earned a Professional Certification in Data Science from PURDUE University.
+- **Kaggle Expert**: Distinguished as a Kaggle Expert for my contributions and performance in competitions.
+- **MedTourEasy Internship**: Completed a data-driven internship, focusing on fitness data analytics.
+- **Diverse Data Science Projects**: Completed numerous projects in Machine Learning, Deep Learning, NLP, and LLMs, demonstrating a wide range of skills and applications in Data Science.
+-  **Teaching Excellence**: Recognized for my impactful guidance to JEE Main and NEET aspirants.
+
+
 
 ## Seeking Opportunities 🌱
 
