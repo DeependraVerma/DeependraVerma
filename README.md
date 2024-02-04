@@ -1,6 +1,17 @@
 # Welcome to My GitHub - Data Science 🚀📊
+<br>
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://media1.tenor.com/m/IQ6Z-aPhr1wAAAAd/date-everywhere-data.gif" alt="Coder GIF" width="200" height="250">
+    <img src="https://media.tenor.com/Zw9xJqkeKBEAAAAi/arrow-kws.gif" alt="Arrow GIF" width="50" height="50">
+    <img src="https://media1.tenor.com/m/2unHkuoMLhcAAAAd/data-code.gif" alt="Coder GIF" width="200" height="250">
+    <img src="https://media.tenor.com/Zw9xJqkeKBEAAAAi/arrow-kws.gif" alt="Arrow GIF" width="50" height="50">
+    <img src="https://media1.tenor.com/m/lUS8_KLWgk4AAAAd/similarweb-data.gif" alt="Coder GIF" width="200" height="250">
+    <img src="https://media.tenor.com/Zw9xJqkeKBEAAAAi/arrow-kws.gif" alt="Arrow GIF" width="50" height="50">
+    <img src="https://media1.tenor.com/m/eAvYn-gw0_MAAAAd/deep-hidden-layers.gif" alt="Coder GIF" width="200" height="250">
+</div>
 
----
+
+
 
 ### 👋 Hi there, I'm Deependra Verma
 
