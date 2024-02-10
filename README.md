@@ -1,4 +1,8 @@
 # Welcome to My <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Coder GIF" width="50" height="50"> - Data Science 🚀📊
+<body>
+    <marquee behavior="alternate" direction="left">Your Name Here</marquee>
+</body>
+
 <p align="center">
   <a href="https://github.com/Deependraverma">
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Deependra Verma" />
