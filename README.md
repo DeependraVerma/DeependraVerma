@@ -1,17 +1,4 @@
 # Welcome to My GitHub - Data Science 🚀📊
-<!-- Namaste Banner -->
-<div style="background-color: #f9f9f9; padding: 10px; border-radius: 5px; text-align: center;">
-  <h1 style="animation: blinker 1s linear infinite;">Hi, &#x1F1F3;&#x1F1F1; I am Deependra and Welcome to my profile</h1>
-</div>
-
-<!-- CSS for Blinking Animation -->
-<style>
-  @keyframes blinker {
-    50% {
-      opacity: 0;
-    }
-  }
-</style>
 
 <br>
 <div style="display: flex; justify-content: space-between;">
