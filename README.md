@@ -1,7 +1,5 @@
 # Welcome to My <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Coder GIF" width="50" height="50"> - Data Science 🚀📊
-<body>
-    <marquee behavior="scroll" direction="right">Your Name Here</marquee>
-</body>
+
 
 <p align="center">
   <a href="https://github.com/Deependraverma">
@@ -10,8 +8,9 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Data+Scientist+with+ML%2C+DL%2C+and+GenAI+expertise.;Experienced+with+many+End-to-End+Projects+on+Machine+Learning%2C+Deep+Learning+and+Generative+AI+LLMs&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </p>
+
 
 <br>
 <div style="display: flex; justify-content: space-between;">
