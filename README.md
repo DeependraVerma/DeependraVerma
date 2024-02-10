@@ -8,8 +8,9 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Data+Scientist+with+ML%2C+DL%2C+and+GenAI+expertise.;Experienced+with+many+End-to-End+Projects+on+Machine+Learning%2C+Deep+Learning+and+Generative+AI+LLMs&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Data+Scientist+with+ML%2C+DL%2C+and+GenAI+expertise.;Experienced+with+many+End-to-End+Projects+on+Machine+Learning%2C+Deep+Learning+and+Generative+AI+LLMs&font=Fira%20Code&center=true&width=700&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </p>
+
 
 
 <br>
