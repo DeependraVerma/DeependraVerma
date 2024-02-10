@@ -54,6 +54,9 @@ I've honed my expertise through a significant internship with MedTourEasy, worki
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-3776AB?style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 
 ---
