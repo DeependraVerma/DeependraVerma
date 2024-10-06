@@ -22,19 +22,17 @@
 
 
 ### 👋 Hi there, I'm Deependra Verma
+I am an AI Team Lead with a deep passion for Generative AI, Large Language Models (LLMs), and data-driven problem-solving. With expertise in Python, SQL, Data Science, Machine Learning, Deep Learning, and AI Engineering, I bring over four years of hands-on experience in the field. My journey is marked by continuous learning, with notable achievements including a Kaggle medal, a Professional Certification in Data Science from Purdue University, and leadership in cutting-edge AI projects.
 
-I am a passionate data enthusiast and product management professional, with a rich skill set in Python, SQL, Data Science, Machine Learning, Deep Learning, and LLMs, I bring three years of hands-on experience in data science. As a Kaggle medalist and a proud recipient of a Professional Certification in Data Science from Purdue University, my journey has been marked by continuous learning and application.
-
-I've honed my expertise through a significant internship with MedTourEasy, working on fitness data projects. My proficiency lies in modular coding for end-to-end data science projects, including LLMs, Deep Learning, Machine Learning, and Data Analytics. My goal is to leverage these skills to drive impactful innovations and deliver comprehensive data-driven solutions.
-
+Currently, I lead AI initiatives at Netweb Technologies, focusing on LLM fine-tuning, Prompt engineering, RAG, Generative AI, and computer vision solutions. My work includes advanced models like Llama 3.1, Llama 3.2, GPT, stable diffusion, data augmentation, and deploying scalable AI systems through Docker and Kubernetes. With expertise in AWS, Azure, GCP, GPUs of Nvidia/AMD.
 ---
 
 ## About Me 🌟
 
-- 🎓 **Educational Background**: Professional Certification in Data Science from PURDUE University, Internship in Data Science from MedTourEasy, achieved a top-tier All India Rank in the GATE 2017, postgraduate in Mechanical Engineering from NIT Patna.
-- 🧑‍🏫 **Professional Journey**: Transitioned from being a Subject Matter Expert and Physics Teacher to excelling in Data Scientist roles.
-- 💻 **Tech Enthusiast**: Adept at utilizing technologies like Python, Machine Learning, Deep Learning, Data Science, and SQL to enhance Data Science efficiency.
-- 📈 **Data-Driven Expertise**: With three years of experience in data science, I am proficient in Python, SQL, Data Science, Machine Learning, and Deep Learning. My journey in data science is highlighted by Kaggle achievements and a Professional Certification from Purdue University.
+- 🎓 **Educational Background**: Professional Certification in Data Science from PURDUE University, Internship in Data Science from MedTourEasy, achieved a top-tier All India Rank in the GATE 2017, postgraduate from NIT Patna.
+- 🧑‍🏫 **Professional Journey**: Transitioned from a Subject Matter Expert and Physics Teacher to AI Team Lead, excelling in AI Engineering, LLM, and data-driven innovations.
+- 💻 **Tech Enthusiast**: Adept at utilizing technologies like GenerativeAI, Python, Machine Learning, Deep Learning, Data Science, and SQL to enhance Data Science efficiency.
+- 📈 **Data-Driven Expertise**: With four years of experience in AI and data science, I am proficient in GenerativeAI, Python, SQL, Data Science, Machine Learning, and Deep Learning. My journey in data science is highlighted by Kaggle achievements and a Professional Certification from Purdue University.
 - 🌐 **Global Perspective in Ed-Tech**: Gained substantial experience in the Ed-Tech sector, focusing on AI applications to revolutionize learning experiences and contribute to business growth. This includes a significant data science project during my internship with MedTourEasy, centered around fitness data.
 
 ---
