@@ -4,7 +4,7 @@
 </center>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Data+Scientist+with+ML%2C+DL%2C+and+GenAI+expertise.;End-to-End+Projects%3A+On+Machine+Learning%2C+Deep+Learning%2C+GenAI+LLMs&font=Fira%20Code&center=true&width=2500&height=45&color=f75c7e&vCenter=true&pause=1000&size=50" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=I+am+an+AI+Engineer+with+ML%2C+DL%2C+and+GenAI+expertise.;End-to-End+Projects%3A+On+Machine+Learning%2C+Deep+Learning%2C+GenAI+LLMs&font=Fira%20Code&center=true&width=2500&height=45&color=f75c7e&vCenter=true&pause=1000&size=50" />
 </p>
 
 
