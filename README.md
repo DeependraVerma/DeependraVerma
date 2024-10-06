@@ -1,5 +1,5 @@
 <center>
-    <h1><img src="https://media.tenor.com/oqXocliEYAMAAAAi/hello-yellow.gif" alt="Coder GIF" width="50" height="50"> <img src="https://media.tenor.com/VavSdtvIXEgAAAAi/namaste.gif" alt="Coder GIF" width="50" height="50"> Welcome to My Data Science GitHub<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Coder GIF" width="50" height="50">
+    <h1><img src="https://media.tenor.com/oqXocliEYAMAAAAi/hello-yellow.gif" alt="Coder GIF" width="50" height="50"> <img src="https://media.tenor.com/VavSdtvIXEgAAAAi/namaste.gif" alt="Coder GIF" width="50" height="50"> Welcome to My GenerativeAI and Data Science GitHub<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Coder GIF" width="50" height="50">
     <img src="https://media.tenor.com/--EZSvGoUEQAAAAi/hey.gif"alt="Coder GIF" width="50" height="50"></h1>
 </center>
 
