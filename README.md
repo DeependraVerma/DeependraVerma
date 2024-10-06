@@ -22,11 +22,11 @@
 
 
 ### 👋 Hi there, I'm Deependra Verma
-I am an AI Team Lead with a deep passion for Generative AI, Large Language Models (LLMs), and data-driven problem-solving. With expertise in Python, SQL, Data Science, Machine Learning, Deep Learning, and AI Engineering, I bring over four years of hands-on experience in the field. My journey is marked by continuous learning, with notable achievements including a Kaggle medal, a Professional Certification in Data Science from Purdue University, and leadership in cutting-edge AI projects.
+I am an AI Team Lead with a deep passion for Generative AI, Large Language Models (LLMs), and data-driven problem-solving. With expertise in Python, SQL, Data Science, Machine Learning, Deep Learning, and AI Engineering, I bring over four years of hands-on experience in the field. My journey is marked by continuous learning, with notable achievements including a Kaggle medal, a Professional Certification in Data Science from Purdue University, and leadership in cutting-edge AI projects. 
 
 Currently, I lead AI initiatives at Netweb Technologies, focusing on LLM fine-tuning, Prompt engineering, RAG, Generative AI, and computer vision solutions. My work includes advanced models like Llama 3.1, Llama 3.2, GPT, stable diffusion, data augmentation, and deploying scalable AI systems through Docker and Kubernetes. With expertise in AWS, Azure, GCP, GPUs of Nvidia/AMD.
----
 
+---
 ## About Me 🌟
 
 - 🎓 **Educational Background**: Professional Certification in Data Science from PURDUE University, Internship in Data Science from MedTourEasy, achieved a top-tier All India Rank in the GATE 2017, postgraduate from NIT Patna.
@@ -41,6 +41,7 @@ Currently, I lead AI initiatives at Netweb Technologies, focusing on LLM fine-tu
 ## Skills 💼
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GenerativeAI](https://img.shields.io/badge/-GenerativeAI-3776AB?style=for-the-badge&logo=GenerativeAI&logoColor=white)
 ![Data Science](https://img.shields.io/badge/-Data%20Science-3776AB?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-3776AB?style=for-the-badge)
@@ -55,6 +56,9 @@ Currently, I lead AI initiatives at Netweb Technologies, focusing on LLM fine-tu
 ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-3776AB?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-0089D6?style=for-the-badge&logo=google-GCP&logoColor=white)
+![Nvidia](https://img.shields.io/badge/-Nvidia-0089D6?style=for-the-badge&logo=Nvidia-GPUs&logoColor=white)
+![AMD](https://img.shields.io/badge/-AMD-0089D6?style=for-the-badge&logo=AMD-GPUs&logoColor=white)
 
 
 ---
